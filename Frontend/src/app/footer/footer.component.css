@@ -1,0 +1,17 @@
+.footer{
+    margin-top: 18%;
+    background-color:  #0c7f23;
+    text-align: center;
+    height: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.footcon{
+    color: rgb(17, 2, 2);
+    margin-top: 2.5%;
+    font-size: 25px;
+}
+.footp{
+    color: #040806;
+    font-size: 22px;
+}
