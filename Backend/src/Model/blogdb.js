@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/Blogs');
+mongoose.connect('mongodb+srv://neethuS115:sureshN115@cluster0.k7axd0h.mongodb.net/Blogs?retryWrites=true&w=majority');
 const Schema = mongoose.Schema;
 
 var NewBloggerSchema = new Schema({
