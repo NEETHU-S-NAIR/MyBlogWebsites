@@ -1,9 +1,11 @@
 .color{
-    background-color: #19808e;
+    background-color: #9eb93c;
 }
 .text{
-    color: #af2424;
+    color: #183669;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .head{
-    color: #bd6f10;
+    color: #0f732a;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

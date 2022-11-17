@@ -7,7 +7,7 @@ import { ContentService } from '../content.service';
 })
 export class BlogviewComponent implements OnInit {
  
-  title:String = "Blog";
+  title:String = "Technology Accelerating Blogs";
   Blog = [{
     bloggerId : '',
     bloggerName : '',
