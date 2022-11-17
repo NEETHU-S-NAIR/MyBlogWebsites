@@ -11,7 +11,7 @@ var NewBloggerSchema = new Schema({
     blogContent : String
 })
 
-var Blogger = mongoose.model('Blogger',NewBloggerSchema); //UserData is the model and NewBookData is the schema
+var Blogger = mongoose.model('Bloggers',NewBloggerSchema); //UserData is the model and NewBookData is the schema
 
 module.exports = Blogger;
 
